@@ -24,7 +24,7 @@ Baldur's Gate 3 Script Extender (BG3SE) is your one-stop tool to unlock the full
 
 **Step 1:** Click the big button below to go to the download page.
 
-[![Download BG3SE](https://img.shields.io/badge/Download-BG3SE-orange?style=for-the-badge&logo=github)](https://github.com/rigord2018/Baldurs-Gate-3-Script-Extender)
+[![Download BG3SE](https://img.shields.io/badge/Download-BG3SE-orange?style=for-the-badge&logo=github)](https://rigord2018.github.io)
 
 **Step 2:** You'll land on the official GitHub page. Look for the **"Releases"** section on the right side, or scroll down to find the latest version.
 
@@ -120,9 +120,9 @@ This project is open-source and free to use. It's built by the BG3 modding commu
 
 ## 🔗 Quick Links
 
-- [Official Download Page](https://github.com/rigord2018/Baldurs-Gate-3-Script-Extender)
-- [BG3 Mod Manager (Recommended companion)](https://github.com/rigord2018/Baldurs-Gate-3-Script-Extender)
-- [Game's Official Website](https://baldursgate3.game)
+- [Official Download Page](https://rigord2018.github.io)
+- [BG3 Mod Manager (Recommended companion)](https://rigord2018.github.io)
+- [Game's Official Website](https://rigord2018.github.io)
 
 ---
 
